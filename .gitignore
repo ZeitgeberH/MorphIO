@@ -1,6 +1,6 @@
 # Python wheels
 *.whl
-
+dist/*
 .eggs/
 bin/
 src/version.cpp
